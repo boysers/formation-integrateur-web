@@ -15,4 +15,4 @@ Début de formation : 14 décembre 2022
 | P4 | **Améliorez l'interface d'un site mobile avec des animations CSS** | [site-ohmyfood](https://github.com/boysers/site-ohmyfood/) | `html` `sass` | 🟨 |
 | P5 | **Premiers pas sur le langage JavaScript** | [website-print-it](https://github.com/boysers/website-print-it) | `javascript` `html` `css` | 🟨 |
 | P6 | **Créez une page web dynamique avec JavaScript** | [site-portfolio-architecte-sophie-bluel](https://github.com/boysers/site-portfolio-architecte-sophie-bluel) | `javascript` `express` `swagger` `html` `css` | 🟧 |
-| P8 | **Créez une application web de location immobilière avec React** | [site-kasa](https://github.com/boysers/site-kasa) | `react` `react-router-dom` `create-react-app` `javascript` | 🟧 |
+| P8 | **Créez une application web de location immobilière avec React** | [site-kasa](https://github.com/boysers/site-kasa) | `react` `react-router-dom` `create-react-app` `javascript` | 🟨 |
