@@ -11,7 +11,7 @@ Début de formation : 14 décembre 2022
 | P3 | **Créez la page d'accueil d'une agence de voyage avec HTML & CSS** | [oc-booki](https://github.com/boysers/oc-booki) | `html` `css` | ✅ |
 | P4 | **Améliorez l'interface d'un site mobile avec des animations CSS** | [oc-ohmyfood](https://github.com/boysers/oc-ohmyfood/) | `html` `sass` | ✅ |
 | P5 | **Premiers pas sur le langage JavaScript** | [oc-print-it](https://github.com/boysers/oc-print-it) | `javascript` | ✅ |
-| P6 | **Créez une page web dynamique avec JavaScript** | [oc-portfolio-architecte-sophie-bluel](https://github.com/boysers/oc-portfolio-architecte-sophie-bluel) | `javascript` `html` `css` | 🟦 |
+| P6 | **Créez une page web dynamique avec JavaScript** | [oc-portfolio-architecte-sophie-bluel](https://github.com/boysers/oc-portfolio-architecte-sophie-bluel) | `javascript` `html` `css` | ✅ |
 | P7 | **Planifiez le développement du site de votre client** | | `agilité` `scrum` | 🟨 |
 | P8 | **Créez une application web de location immobilière avec React** | [oc-kasa](https://github.com/boysers/oc-kasa) | `create-react-app` `react` `typescript` `react-router-dom` `sass` | 🟦 |
 | P9 | **Optimisez le référencement d'un site de photographe** |  |  | 🟧 |
