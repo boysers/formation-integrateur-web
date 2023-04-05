@@ -1,7 +1,7 @@
 # OC Project List - Formation Intégrateur Web
 
-Début de formation : 14 décembre 2022
-Fin de formation : 29 mars 2023
+- Début de formation : 14 décembre 2022
+- Fin de formation : 29 mars 2023
 
 ## Liste de mes projets :
 
